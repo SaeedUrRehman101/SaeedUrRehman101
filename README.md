@@ -24,11 +24,11 @@
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
- **<h3 align="left">Skills</h3>**
+ **<h3 align="left">Skills:</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px; justify-content: left;"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VSCode" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" style="margin-right: 18px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48" alt="CSS3" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=jquery" height="48" alt="JQuery" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=vite" height="48" alt="Vite" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=postgresql" height="48" alt="PostgreSQL" style="margin-right: 18px"> <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" style="margin-right: 18px"></div>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left">GitHub Stats:</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SaeedUrRehman101&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
@@ -38,7 +38,3 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeedUrRehman101&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://buymeacoffee.com/https://saeedportfoliosite.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-fde047?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" height="36" style="margin-right: 4px"></a></p>
